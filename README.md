@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abubsg
 - 👀 I’m interested in web-based automation
-- 📫 How to reach me --> abubsg, abubsg@gmail.com
+- 📫 How to reach me --> Twitter: @abub_SG, email: abubsg@gmail.com
 
 <!---
 abubsg/abubsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
